@@ -18,8 +18,6 @@ public class Executor {
 		
 		Food f1=new Food();
 		f1.get1();
-		
-		Color c=new Color();
 	}	
 
 
